@@ -1,0 +1,14 @@
+npm i express ejs body-parser mongoose mongodb ejs
+sudo npm install -g nodemon
+mongod 
+npm install mongodb
+npm install mongoose
+nodemon app.js 
+
+rs  :to restart server
+
+
+
+https://www.appbrewery.co/p/web-development-course-resources/
+
+
